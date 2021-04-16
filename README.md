@@ -3,6 +3,8 @@
 C command-line snake game.
 
 # Folder Structure
+
+Requirements: Documents detailing requirement and research
 Implementation: All code and documentation
 
 
